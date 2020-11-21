@@ -1,1 +1,3 @@
 Learning Git
+supposed to be difficult
+second change to the file
