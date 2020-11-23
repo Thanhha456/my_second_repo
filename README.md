@@ -1,7 +1,10 @@
 # my second repo
+
+
       *CENTRAL PARK - LAKE*
 
-## Bloom and Bialystock are on the wooden rowboat and Bialystock is laying baxh with his ferr crossed on the side. Bloom is sitting up with his feet in the water and his pants rolled to his knees.
+
+## Bloom and Bialystock are on the wooden rowboat and Bialystock is laying back with his feet crossed on the side. Bloom is sitting up with his feet in the water and his pants rolled to his knees.
 
 *Bialystock* 
 -  Lovely out here isn't it?
@@ -27,10 +30,13 @@
 *Bloom*
 - That's it. I'm happy.
 
+
 Puts his hand into his head. 
 
 *Bloom* (CONT'D)
  Ah HA HA! Well what do you know about that? I'm happy!
+
+
 
 
 Source *The hidden tools of comedy* by STEVE KAPLAN
