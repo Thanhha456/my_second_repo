@@ -18,13 +18,13 @@ Bloom and Bialystock are on the wooden rowboat and Bialystock is laying baxh wit
 - That's Leo. You are learning. Having a good time?
 
 *Bloom*
-_ I don't know, I feel so... strange.
+- I don't know, I feel so... strange.
 
 *Bialystock*
-_ Maybe you are happy.
+- Maybe you are happy.
 
 *Bloom*
-_ That's it. I'm happy.
+- That's it. I'm happy.
 
 Puts his hand into his head. 
 
